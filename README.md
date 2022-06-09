@@ -1,3 +1,3 @@
 # odin-recipes
 Project One
-Html basicks
+Html basics
